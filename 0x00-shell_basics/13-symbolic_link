@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la . | grep "\->"
+ln -s /bin/ls __ls__
