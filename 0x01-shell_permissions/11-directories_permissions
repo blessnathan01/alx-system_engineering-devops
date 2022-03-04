@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 [2-9]*
+find ./* -type d -exec chmod 755 {} \+
