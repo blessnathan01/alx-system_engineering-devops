@@ -1,2 +1,2 @@
 #!/bin/bash
-start *.mpeg4
+telnet towel.blinkenlights.nl
