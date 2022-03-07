@@ -1,1 +1,3 @@
-All about scripts related to shell redirections are here
+0-hello_world
+1-confused_smiley
+README.md
