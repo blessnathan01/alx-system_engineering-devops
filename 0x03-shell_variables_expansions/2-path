@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "ecport PATH=/action:$PATH" >> ~/.bashrc
