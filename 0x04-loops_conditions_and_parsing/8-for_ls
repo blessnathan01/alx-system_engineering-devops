@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# This script is displaying the content of the current directory
+
+for i in *; do basename "$i" | cut -d '-' -f 2; done
