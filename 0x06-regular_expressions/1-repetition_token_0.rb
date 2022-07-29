@@ -1,5 +1,6 @@
 #!/usr/bin/env ruby
-# This script matches string that has hb followed by at least 2
-# occurences of t (at most 5) then n
+# This script takes an argument
+# and pass it to a regex for
+# repetition token
 
 puts ARGV[0].scan(/hbt{2,5}n/).join
