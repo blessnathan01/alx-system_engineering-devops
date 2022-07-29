@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
-# This script matches Holberton in any string
+# This script takes an argument
+# and pass it to a regexp
 
-puts ARGV[0].scan(/Holberton/).join
+puts ARGV[0].scan(/School/).join
